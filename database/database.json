@@ -1,0 +1,104 @@
+{
+  "vaiLua": [
+    {
+      "id": 1,
+      "maSanPham": "AT10001",
+      "ten": "Lụa Cotton",
+      "hinhAnh": "https://file.hstatic.net/1000284478/file/vai-lua-cotton_bc0ee16ab6e143379b844a25f5900bee.jpg",
+      "khoVai": [
+        {
+          "kho": "1.2m",
+          "bienThe": [
+            { "mau": "Trắng kem", "gia": 160000, "soLuongCon": 50 },
+            { "mau": "Xanh pastel", "gia": 165000, "soLuongCon": 40 },
+            { "mau": "Vàng", "gia": 165000, "soLuongCon": 40 }
+          ]
+        },
+        {
+          "kho": "1.5m",
+          "bienThe": [
+            { "mau": "Hồng nhạt", "gia": 180000, "soLuongCon": 30 },
+            { "mau": "Be", "gia": 175000, "soLuongCon": 25 },
+            { "mau": "Xanh pastel", "gia": 165000, "soLuongCon": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "maSanPham": "AT10002",
+      "ten": "Lụa Tơ Tằm",
+      "hinhAnh": "https://file.hstatic.net/1000284478/file/vai-lua-to-tam_42cb15f754ff46d78253f8760afef80a.png",
+      "khoVai": [
+        {
+          "kho": "1.0m",
+          "bienThe": [
+            { "mau": "Hồng phấn", "gia": 300000, "soLuongCon": 20 },
+            { "mau": "Đỏ đô", "gia": 320000, "soLuongCon": 15 },
+            { "mau": "Vàng nhạt", "gia": 340000, "soLuongCon": 18 }
+          ]
+        },
+        {
+          "kho": "1.2m",
+          "bienThe": [
+            { "mau": "Vàng nhạt", "gia": 340000, "soLuongCon": 18 },
+            { "mau": "Xanh ngọc", "gia": 350000, "soLuongCon": 12 },
+            { "mau": "Hồng phấn", "gia": 300000, "soLuongCon": 20 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "maSanPham": "AT10003",
+      "ten": "Lụa Satin",
+      "hinhAnh": "https://file.hstatic.net/1000284478/file/vai-lua-satin_cfbf9ff2799441659143c512627aac90.png",
+      "khoVai": [
+        {
+          "kho": "1.4m",
+          "bienThe": [
+            { "mau": "Xanh ngọc", "gia": 230000, "soLuongCon": 40 },
+            { "mau": "Tím pastel", "gia": 240000, "soLuongCon": 35 },
+            { "mau": "Đen", "gia": 260000, "soLuongCon": 28 },
+            { "mau": "Trắng", "gia": 255000, "soLuongCon": 22 }
+          ]
+        },
+        {
+          "kho": "1.6m",
+          "bienThe": [
+            { "mau": "Đen", "gia": 260000, "soLuongCon": 28 },
+            { "mau": "Trắng", "gia": 255000, "soLuongCon": 22 },
+            { "mau": "Xanh ngọc", "gia": 230000, "soLuongCon": 40 },
+            { "mau": "Tím pastel", "gia": 240000, "soLuongCon": 35 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "maSanPham": "AT10004",
+      "ten": "Lụa Đũi",
+      "hinhAnh": "https://file.hstatic.net/1000284478/file/vai-lua-dui_0dd22255b5fc4c309ab5664bca31da76.jpg",
+      "khoVai": [
+        {
+          "kho": "1.3m",
+          "bienThe": [
+            { "mau": "Nâu đất", "gia": 190000, "soLuongCon": 50 },
+            { "mau": "Xanh rêu", "gia": 200000, "soLuongCon": 45 },
+            { "mau": "Trắng", "gia": 210000, "soLuongCon": 30 },
+            { "mau": "Be nhạt", "gia": 205000, "soLuongCon": 25 }
+          ]
+        },
+        {
+          "kho": "1.5m",
+          "bienThe": [
+            { "mau": "Trắng", "gia": 210000, "soLuongCon": 30 },
+            { "mau": "Be nhạt", "gia": 205000, "soLuongCon": 25 },
+            { "mau": "Nâu đất", "gia": 190000, "soLuongCon": 50 },
+            { "mau": "Xanh rêu", "gia": 200000, "soLuongCon": 45 }
+          ]
+        }
+      ]
+    }
+  ]
+}
