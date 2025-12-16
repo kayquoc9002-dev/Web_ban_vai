@@ -9,6 +9,7 @@ function MainContent() {
           <div className="lg:col-span-8 space-y-8">
             <Cart />
             <Cart />
+            <Cart />
             <ProductList />
           </div>
           <Bill/>
