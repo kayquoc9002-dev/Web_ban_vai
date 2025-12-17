@@ -4,11 +4,11 @@
 //   return result.json
 // }
 
-function Product({image, title, code, price}) {
+function Product({code, image, title, price, id, toggleCart}) {
   
   return (
     <>
-      <div className="bg-white p-2 rounded shadow hover:shadow-lg transition">
+      <div className="bg-white p-2 rounded shadow hover:shadow-lg transition" onClick={() => toggleCart(id)}>
         <img
           src={image}
           className="w-full h-32 object-cover rounded mb-2"

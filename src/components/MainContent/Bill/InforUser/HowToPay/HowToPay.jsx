@@ -4,7 +4,7 @@ import { useState } from "react";
 import PrePay from "./Pay/PrePay";
 function HowToPay() {
   let [activeBanking, setActiveBanking] = useState(false);
-
+  console.log(activeBanking);
   return (
     <>
       <div className="grid grid-cols-2 gap-2 mb-4">

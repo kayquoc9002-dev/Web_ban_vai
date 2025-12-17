@@ -99,6 +99,102 @@
           ]
         }
       ]
+    },
+    {
+      "id": 5,
+      "maSanPham": "AT10001",
+      "ten": "Lụa Cotton",
+      "hinhAnh": "https://file.hstatic.net/1000284478/file/vai-lua-cotton_bc0ee16ab6e143379b844a25f5900bee.jpg",
+      "khoVai": [
+        {
+          "kho": "1.2m",
+          "bienThe": [
+            { "mau": "Trắng kem", "gia": 160000, "soLuongCon": 50 },
+            { "mau": "Xanh pastel", "gia": 165000, "soLuongCon": 40 },
+            { "mau": "Vàng", "gia": 165000, "soLuongCon": 40 }
+          ]
+        },
+        {
+          "kho": "1.5m",
+          "bienThe": [
+            { "mau": "Hồng nhạt", "gia": 180000, "soLuongCon": 30 },
+            { "mau": "Be", "gia": 175000, "soLuongCon": 25 },
+            { "mau": "Xanh pastel", "gia": 165000, "soLuongCon": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "maSanPham": "AT10001",
+      "ten": "Lụa Cotton",
+      "hinhAnh": "https://file.hstatic.net/1000284478/file/vai-lua-cotton_bc0ee16ab6e143379b844a25f5900bee.jpg",
+      "khoVai": [
+        {
+          "kho": "1.2m",
+          "bienThe": [
+            { "mau": "Trắng kem", "gia": 160000, "soLuongCon": 50 },
+            { "mau": "Xanh pastel", "gia": 165000, "soLuongCon": 40 },
+            { "mau": "Vàng", "gia": 165000, "soLuongCon": 40 }
+          ]
+        },
+        {
+          "kho": "1.5m",
+          "bienThe": [
+            { "mau": "Hồng nhạt", "gia": 180000, "soLuongCon": 30 },
+            { "mau": "Be", "gia": 175000, "soLuongCon": 25 },
+            { "mau": "Xanh pastel", "gia": 165000, "soLuongCon": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "maSanPham": "AT10001",
+      "ten": "Lụa Cotton",
+      "hinhAnh": "https://file.hstatic.net/1000284478/file/vai-lua-cotton_bc0ee16ab6e143379b844a25f5900bee.jpg",
+      "khoVai": [
+        {
+          "kho": "1.2m",
+          "bienThe": [
+            { "mau": "Trắng kem", "gia": 160000, "soLuongCon": 50 },
+            { "mau": "Xanh pastel", "gia": 165000, "soLuongCon": 40 },
+            { "mau": "Vàng", "gia": 165000, "soLuongCon": 40 }
+          ]
+        },
+        {
+          "kho": "1.5m",
+          "bienThe": [
+            { "mau": "Hồng nhạt", "gia": 180000, "soLuongCon": 30 },
+            { "mau": "Be", "gia": 175000, "soLuongCon": 25 },
+            { "mau": "Xanh pastel", "gia": 165000, "soLuongCon": 40 }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "maSanPham": "AT10001",
+      "ten": "Lụa Cotton",
+      "hinhAnh": "https://file.hstatic.net/1000284478/file/vai-lua-cotton_bc0ee16ab6e143379b844a25f5900bee.jpg",
+      "khoVai": [
+        {
+          "kho": "1.2m",
+          "bienThe": [
+            { "mau": "Trắng kem", "gia": 160000, "soLuongCon": 50 },
+            { "mau": "Xanh pastel", "gia": 165000, "soLuongCon": 40 },
+            { "mau": "Vàng", "gia": 165000, "soLuongCon": 40 }
+          ]
+        },
+        {
+          "kho": "1.5m",
+          "bienThe": [
+            { "mau": "Hồng nhạt", "gia": 180000, "soLuongCon": 30 },
+            { "mau": "Be", "gia": 175000, "soLuongCon": 25 },
+            { "mau": "Xanh pastel", "gia": 165000, "soLuongCon": 40 }
+          ]
+        }
+      ]
     }
   ]
 }
